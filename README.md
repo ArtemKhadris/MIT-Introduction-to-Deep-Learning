@@ -1,7 +1,5 @@
 # MIT Introduction to Deep Learning
 
-##
-
 This is my solution of MIT Intro to Deep Learning labs.
 
 All content is taken from the [official website of the course](http://introtodeeplearning.com/) and the [corresponding repositories on the github](https://github.com/aamini/introtodeeplearning).
